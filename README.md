@@ -5,7 +5,7 @@
 ## 📝 Me
 - Currently learning more about the intricacies of **Ethereum x clients** and on-chain security.  
 - Building a <b>Validator as a Service</b> aimed at democratising staking at Kiln 🚀.  
-- Globe-trotter and Eternal student  
+- Globe-trotter and Eternal student.  
 
 ## 📫 Contact
 - LinkedIn  : [Joel Rousseau](https://www.linkedin.com/in/joelrousseau/)

@@ -4,7 +4,6 @@ A passionate IT Engineer / Former Pentester with a focus on IT security, the Eth
 
 ## 📝 Me
 - Currently learning more about the intricacies of **Ethereum x clients** and on-chain security.  
-- Building a <b>Validator as a Service</b> aimed at democratising staking at Kiln 🚀.  
 - Eternal student.  
 
 ## 📫 Contact
